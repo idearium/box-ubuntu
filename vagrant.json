@@ -1,0 +1,7 @@
+{
+    "box_path": "file://builds/ubuntu-16.04.virtualbox.box",
+    "cpus": 1,
+    "hostAliases": "idearium.local dev.idearium.local",
+    "hostname": "ideariumdev",
+    "memory": 512
+}

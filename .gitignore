@@ -3,3 +3,9 @@ packer_cache/
 
 # For built boxes
 *.box
+
+# Vagrant testing
+.vagrant
+
+# macOS files
+.DS_Store

@@ -1,5 +1,17 @@
 # Cache objects
+/packer-*/
 packer_cache/
+packer.log
 
 # For built boxes
 *.box
+*.ova
+*.ovf
+iso
+
+# Vagrant artifacts
+.bundle/
+.vagrant/
+
+# Other
+.DS_Store

@@ -20,7 +20,6 @@ chmod -R go-rwsx $HOME_DIR/.ssh;
 echo 'alias h="history"
 alias rr="rm -rf"
 alias d="docker"
-alias dc="docker-compose"
 alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."

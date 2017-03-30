@@ -2,6 +2,8 @@
 
 An Ubuntu Vagrant development box, built with Packer.
 
+You can [download the box on Atlas](https://atlas.hashicorp.com/idearium/boxes/ubuntu-16.04/).
+
 ## Features
 
 - Ubuntu 16.04.2 LTS (Xenial Xerus) Server

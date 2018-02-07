@@ -1,5 +1,14 @@
 # Changelog
 
+## Unreleased
+
+## Improvements
+
+- Patch update to Ubuntu 16.04.3.
+- Mongo tools update to the latest version.
+- NodeJS update to the latest version.
+- Added support for Yarn.
+
 ## v1.0.1 (2017.03.31)
 
 ## Improvements

@@ -6,5 +6,5 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 # now alias so we don't have to type docker-compose all the time, just dc
 if [ ! -e /usr/local/bin/dc ]; then
-    ln -s /usr/local/bin/docker-compose /usr/local/bin/dc
+    sudo ln -s /usr/local/bin/docker-compose /usr/local/bin/dc
 fi

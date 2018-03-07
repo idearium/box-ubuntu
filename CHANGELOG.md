@@ -4,6 +4,12 @@
 
 ## Improvements
 
+- Update Ubuntu to 16.04.4
+
+## v1.1.0 (2018.02.07)
+
+## Improvements
+
 - Patch update to Ubuntu 16.04.3.
 - Mongo tools update to the latest version.
 - NodeJS update to the latest version.

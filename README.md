@@ -28,7 +28,7 @@ Make sure all dependencies have been installed before moving on:
 1. Download this repository.
 1. Make sure your system meets all dependencies.
 1. Run `packer build ubuntu-16.04.json` to build the boxes.
-1. Upload the boxes in the `builds` folder to [Atlas](https://atlas.hashicorp.com).
+1. Upload the boxes in the `builds` folder to [Vagrant Cloud](https://app.vagrantup.com/idearium/boxes/ubuntu-16.04).
 
 ## Testing
 

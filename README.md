@@ -6,7 +6,7 @@ You can [download the box on Vagrant Cloud](https://app.vagrantup.com/idearium/b
 
 ## Features
 
-- Ubuntu 16.04.3 LTS (Xenial Xerus) Server
+- Ubuntu 16.04 LTS (Xenial Xerus) Server
 - Docker
 - Docker Compose
 - Git

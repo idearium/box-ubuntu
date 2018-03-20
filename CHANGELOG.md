@@ -4,6 +4,18 @@
 
 ## Improvements
 
+- Update Ubuntu to v16.04.4
+- Update docker-compose to v1.19.0
+- Update Docker to v17.12.1-ce
+- Update Git to v2.16.2
+- Update Mongo to v3.6.3
+- Update Node.js to v8.10.0
+- Update Yarn to v1.5.1
+
+## v1.1.0 (2018.02.07)
+
+## Improvements
+
 - Patch update to Ubuntu 16.04.3.
 - Mongo tools update to the latest version.
 - NodeJS update to the latest version.

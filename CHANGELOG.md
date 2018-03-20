@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## v1.2.0 (2018.03.20)
 
 ## Improvements
 
